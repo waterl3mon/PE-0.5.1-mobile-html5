@@ -1,7 +1,8 @@
 # Psych Engine port modded by waterl3mon
-- added flixel files
-- added manifest files
-- Ye Mod + credits + custom icons button
+- added flixel files (done)
+- added manifest files (done)
+- Ye Mod + credits + custom icons button (not yet)
+- week7 files (TODO)
 
 V0.5.1
 # Friday Night Funkin' - Psych Engine Mobile HTML5
