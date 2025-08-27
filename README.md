@@ -3,6 +3,7 @@
 - added manifest files (done)
 - Ye Mod + credits + custom icons button (not yet)
 - week7 files (TODO)
+- weekend1 (sept 1st)
 
 V0.5.1
 # Friday Night Funkin' - Psych Engine Mobile HTML5
